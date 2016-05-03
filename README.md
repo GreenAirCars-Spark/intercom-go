@@ -1,3 +1,5 @@
+(Forked from https://github.com/intercom/intercom-go)
+
 # Intercom-Go
 
 [![Build Status](https://travis-ci.org/intercom/intercom-go.svg)](https://travis-ci.org/intercom/intercom-go)
